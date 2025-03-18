@@ -1,0 +1,50 @@
+C:\Users\roger\Dropbox\我的電腦 (DESKTOP-NJLIBRV)\Downloads\UGCFileInstaller\UGCFileInstaller\UGCFileInstaller\bin\Release\net6.0\UGCFileInstaller.exe
+C:\Users\roger\Dropbox\我的電腦 (DESKTOP-NJLIBRV)\Downloads\UGCFileInstaller\UGCFileInstaller\UGCFileInstaller\bin\Release\net6.0\UGCFileInstaller.deps.json
+C:\Users\roger\Dropbox\我的電腦 (DESKTOP-NJLIBRV)\Downloads\UGCFileInstaller\UGCFileInstaller\UGCFileInstaller\bin\Release\net6.0\UGCFileInstaller.runtimeconfig.json
+C:\Users\roger\Dropbox\我的電腦 (DESKTOP-NJLIBRV)\Downloads\UGCFileInstaller\UGCFileInstaller\UGCFileInstaller\bin\Release\net6.0\UGCFileInstaller.dll
+C:\Users\roger\Dropbox\我的電腦 (DESKTOP-NJLIBRV)\Downloads\UGCFileInstaller\UGCFileInstaller\UGCFileInstaller\bin\Release\net6.0\UGCFileInstaller.pdb
+C:\Users\roger\Dropbox\我的電腦 (DESKTOP-NJLIBRV)\Downloads\UGCFileInstaller\UGCFileInstaller\UGCFileInstaller\obj\Release\net6.0\UGCFileInstaller.csproj.AssemblyReference.cache
+C:\Users\roger\Dropbox\我的電腦 (DESKTOP-NJLIBRV)\Downloads\UGCFileInstaller\UGCFileInstaller\UGCFileInstaller\obj\Release\net6.0\UGCFileInstaller.Properties.Resources.resources
+C:\Users\roger\Dropbox\我的電腦 (DESKTOP-NJLIBRV)\Downloads\UGCFileInstaller\UGCFileInstaller\UGCFileInstaller\obj\Release\net6.0\UGCFileInstaller.csproj.GenerateResource.cache
+C:\Users\roger\Dropbox\我的電腦 (DESKTOP-NJLIBRV)\Downloads\UGCFileInstaller\UGCFileInstaller\UGCFileInstaller\obj\Release\net6.0\UGCFileInstaller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roger\Dropbox\我的電腦 (DESKTOP-NJLIBRV)\Downloads\UGCFileInstaller\UGCFileInstaller\UGCFileInstaller\obj\Release\net6.0\UGCFileInstaller.AssemblyInfoInputs.cache
+C:\Users\roger\Dropbox\我的電腦 (DESKTOP-NJLIBRV)\Downloads\UGCFileInstaller\UGCFileInstaller\UGCFileInstaller\obj\Release\net6.0\UGCFileInstaller.AssemblyInfo.cs
+C:\Users\roger\Dropbox\我的電腦 (DESKTOP-NJLIBRV)\Downloads\UGCFileInstaller\UGCFileInstaller\UGCFileInstaller\obj\Release\net6.0\UGCFileInstaller.csproj.CoreCompileInputs.cache
+C:\Users\roger\Dropbox\我的電腦 (DESKTOP-NJLIBRV)\Downloads\UGCFileInstaller\UGCFileInstaller\UGCFileInstaller\obj\Release\net6.0\UGCFileInstaller.dll
+C:\Users\roger\Dropbox\我的電腦 (DESKTOP-NJLIBRV)\Downloads\UGCFileInstaller\UGCFileInstaller\UGCFileInstaller\obj\Release\net6.0\refint\UGCFileInstaller.dll
+C:\Users\roger\Dropbox\我的電腦 (DESKTOP-NJLIBRV)\Downloads\UGCFileInstaller\UGCFileInstaller\UGCFileInstaller\obj\Release\net6.0\UGCFileInstaller.pdb
+C:\Users\roger\Dropbox\我的電腦 (DESKTOP-NJLIBRV)\Downloads\UGCFileInstaller\UGCFileInstaller\UGCFileInstaller\obj\Release\net6.0\UGCFileInstaller.genruntimeconfig.cache
+C:\Users\roger\Dropbox\我的電腦 (DESKTOP-NJLIBRV)\Downloads\UGCFileInstaller\UGCFileInstaller\UGCFileInstaller\obj\Release\net6.0\ref\UGCFileInstaller.dll
+D:\Studio\UGSoftware\UGCFileUnInstaller\UGCFileInstaller\UGCFileInstaller\bin\Release\net6.0\UGCFileInstaller.exe
+D:\Studio\UGSoftware\UGCFileUnInstaller\UGCFileInstaller\UGCFileInstaller\bin\Release\net6.0\UGCFileInstaller.deps.json
+D:\Studio\UGSoftware\UGCFileUnInstaller\UGCFileInstaller\UGCFileInstaller\bin\Release\net6.0\UGCFileInstaller.runtimeconfig.json
+D:\Studio\UGSoftware\UGCFileUnInstaller\UGCFileInstaller\UGCFileInstaller\bin\Release\net6.0\UGCFileInstaller.dll
+D:\Studio\UGSoftware\UGCFileUnInstaller\UGCFileInstaller\UGCFileInstaller\bin\Release\net6.0\UGCFileInstaller.pdb
+D:\Studio\UGSoftware\UGCFileUnInstaller\UGCFileInstaller\UGCFileInstaller\obj\Release\net6.0\UGCFileInstaller.csproj.AssemblyReference.cache
+D:\Studio\UGSoftware\UGCFileUnInstaller\UGCFileInstaller\UGCFileInstaller\obj\Release\net6.0\UGCFileInstaller.Properties.Resources.resources
+D:\Studio\UGSoftware\UGCFileUnInstaller\UGCFileInstaller\UGCFileInstaller\obj\Release\net6.0\UGCFileInstaller.csproj.GenerateResource.cache
+D:\Studio\UGSoftware\UGCFileUnInstaller\UGCFileInstaller\UGCFileInstaller\obj\Release\net6.0\UGCFileInstaller.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studio\UGSoftware\UGCFileUnInstaller\UGCFileInstaller\UGCFileInstaller\obj\Release\net6.0\UGCFileInstaller.AssemblyInfoInputs.cache
+D:\Studio\UGSoftware\UGCFileUnInstaller\UGCFileInstaller\UGCFileInstaller\obj\Release\net6.0\UGCFileInstaller.AssemblyInfo.cs
+D:\Studio\UGSoftware\UGCFileUnInstaller\UGCFileInstaller\UGCFileInstaller\obj\Release\net6.0\UGCFileInstaller.csproj.CoreCompileInputs.cache
+D:\Studio\UGSoftware\UGCFileUnInstaller\UGCFileInstaller\UGCFileInstaller\obj\Release\net6.0\UGCFileInstaller.dll
+D:\Studio\UGSoftware\UGCFileUnInstaller\UGCFileInstaller\UGCFileInstaller\obj\Release\net6.0\refint\UGCFileInstaller.dll
+D:\Studio\UGSoftware\UGCFileUnInstaller\UGCFileInstaller\UGCFileInstaller\obj\Release\net6.0\UGCFileInstaller.pdb
+D:\Studio\UGSoftware\UGCFileUnInstaller\UGCFileInstaller\UGCFileInstaller\obj\Release\net6.0\UGCFileInstaller.genruntimeconfig.cache
+D:\Studio\UGSoftware\UGCFileUnInstaller\UGCFileInstaller\UGCFileInstaller\obj\Release\net6.0\ref\UGCFileInstaller.dll
+C:\Users\RD04\Downloads\drive-download-20250318T031634Z-001\UGCFileUnInstaller\UGCFileInstaller\UGCFileInstaller\bin\Release\net6.0\UGCFileInstaller.exe
+C:\Users\RD04\Downloads\drive-download-20250318T031634Z-001\UGCFileUnInstaller\UGCFileInstaller\UGCFileInstaller\bin\Release\net6.0\UGCFileInstaller.deps.json
+C:\Users\RD04\Downloads\drive-download-20250318T031634Z-001\UGCFileUnInstaller\UGCFileInstaller\UGCFileInstaller\bin\Release\net6.0\UGCFileInstaller.runtimeconfig.json
+C:\Users\RD04\Downloads\drive-download-20250318T031634Z-001\UGCFileUnInstaller\UGCFileInstaller\UGCFileInstaller\bin\Release\net6.0\UGCFileInstaller.dll
+C:\Users\RD04\Downloads\drive-download-20250318T031634Z-001\UGCFileUnInstaller\UGCFileInstaller\UGCFileInstaller\bin\Release\net6.0\UGCFileInstaller.pdb
+C:\Users\RD04\Downloads\drive-download-20250318T031634Z-001\UGCFileUnInstaller\UGCFileInstaller\UGCFileInstaller\obj\Release\net6.0\UGCFileInstaller.Properties.Resources.resources
+C:\Users\RD04\Downloads\drive-download-20250318T031634Z-001\UGCFileUnInstaller\UGCFileInstaller\UGCFileInstaller\obj\Release\net6.0\UGCFileInstaller.csproj.GenerateResource.cache
+C:\Users\RD04\Downloads\drive-download-20250318T031634Z-001\UGCFileUnInstaller\UGCFileInstaller\UGCFileInstaller\obj\Release\net6.0\UGCFileInstaller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RD04\Downloads\drive-download-20250318T031634Z-001\UGCFileUnInstaller\UGCFileInstaller\UGCFileInstaller\obj\Release\net6.0\UGCFileInstaller.AssemblyInfoInputs.cache
+C:\Users\RD04\Downloads\drive-download-20250318T031634Z-001\UGCFileUnInstaller\UGCFileInstaller\UGCFileInstaller\obj\Release\net6.0\UGCFileInstaller.AssemblyInfo.cs
+C:\Users\RD04\Downloads\drive-download-20250318T031634Z-001\UGCFileUnInstaller\UGCFileInstaller\UGCFileInstaller\obj\Release\net6.0\UGCFileInstaller.csproj.CoreCompileInputs.cache
+C:\Users\RD04\Downloads\drive-download-20250318T031634Z-001\UGCFileUnInstaller\UGCFileInstaller\UGCFileInstaller\obj\Release\net6.0\UGCFileInstaller.dll
+C:\Users\RD04\Downloads\drive-download-20250318T031634Z-001\UGCFileUnInstaller\UGCFileInstaller\UGCFileInstaller\obj\Release\net6.0\refint\UGCFileInstaller.dll
+C:\Users\RD04\Downloads\drive-download-20250318T031634Z-001\UGCFileUnInstaller\UGCFileInstaller\UGCFileInstaller\obj\Release\net6.0\UGCFileInstaller.pdb
+C:\Users\RD04\Downloads\drive-download-20250318T031634Z-001\UGCFileUnInstaller\UGCFileInstaller\UGCFileInstaller\obj\Release\net6.0\UGCFileInstaller.genruntimeconfig.cache
+C:\Users\RD04\Downloads\drive-download-20250318T031634Z-001\UGCFileUnInstaller\UGCFileInstaller\UGCFileInstaller\obj\Release\net6.0\ref\UGCFileInstaller.dll

@@ -1,0 +1,17 @@
+C:\Users\roger\Dropbox\我的電腦 (DESKTOP-NJLIBRV)\Downloads\UGCFileInstaller\UGCFileInstaller\UGCFileInstaller\bin\Debug\net6.0\UGCFileInstaller.exe
+C:\Users\roger\Dropbox\我的電腦 (DESKTOP-NJLIBRV)\Downloads\UGCFileInstaller\UGCFileInstaller\UGCFileInstaller\bin\Debug\net6.0\UGCFileInstaller.deps.json
+C:\Users\roger\Dropbox\我的電腦 (DESKTOP-NJLIBRV)\Downloads\UGCFileInstaller\UGCFileInstaller\UGCFileInstaller\bin\Debug\net6.0\UGCFileInstaller.runtimeconfig.json
+C:\Users\roger\Dropbox\我的電腦 (DESKTOP-NJLIBRV)\Downloads\UGCFileInstaller\UGCFileInstaller\UGCFileInstaller\bin\Debug\net6.0\UGCFileInstaller.dll
+C:\Users\roger\Dropbox\我的電腦 (DESKTOP-NJLIBRV)\Downloads\UGCFileInstaller\UGCFileInstaller\UGCFileInstaller\bin\Debug\net6.0\UGCFileInstaller.pdb
+C:\Users\roger\Dropbox\我的電腦 (DESKTOP-NJLIBRV)\Downloads\UGCFileInstaller\UGCFileInstaller\UGCFileInstaller\obj\Debug\net6.0\UGCFileInstaller.csproj.AssemblyReference.cache
+C:\Users\roger\Dropbox\我的電腦 (DESKTOP-NJLIBRV)\Downloads\UGCFileInstaller\UGCFileInstaller\UGCFileInstaller\obj\Debug\net6.0\UGCFileInstaller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roger\Dropbox\我的電腦 (DESKTOP-NJLIBRV)\Downloads\UGCFileInstaller\UGCFileInstaller\UGCFileInstaller\obj\Debug\net6.0\UGCFileInstaller.AssemblyInfoInputs.cache
+C:\Users\roger\Dropbox\我的電腦 (DESKTOP-NJLIBRV)\Downloads\UGCFileInstaller\UGCFileInstaller\UGCFileInstaller\obj\Debug\net6.0\UGCFileInstaller.AssemblyInfo.cs
+C:\Users\roger\Dropbox\我的電腦 (DESKTOP-NJLIBRV)\Downloads\UGCFileInstaller\UGCFileInstaller\UGCFileInstaller\obj\Debug\net6.0\UGCFileInstaller.csproj.CoreCompileInputs.cache
+C:\Users\roger\Dropbox\我的電腦 (DESKTOP-NJLIBRV)\Downloads\UGCFileInstaller\UGCFileInstaller\UGCFileInstaller\obj\Debug\net6.0\UGCFileInstaller.dll
+C:\Users\roger\Dropbox\我的電腦 (DESKTOP-NJLIBRV)\Downloads\UGCFileInstaller\UGCFileInstaller\UGCFileInstaller\obj\Debug\net6.0\refint\UGCFileInstaller.dll
+C:\Users\roger\Dropbox\我的電腦 (DESKTOP-NJLIBRV)\Downloads\UGCFileInstaller\UGCFileInstaller\UGCFileInstaller\obj\Debug\net6.0\UGCFileInstaller.pdb
+C:\Users\roger\Dropbox\我的電腦 (DESKTOP-NJLIBRV)\Downloads\UGCFileInstaller\UGCFileInstaller\UGCFileInstaller\obj\Debug\net6.0\UGCFileInstaller.genruntimeconfig.cache
+C:\Users\roger\Dropbox\我的電腦 (DESKTOP-NJLIBRV)\Downloads\UGCFileInstaller\UGCFileInstaller\UGCFileInstaller\obj\Debug\net6.0\ref\UGCFileInstaller.dll
+C:\Users\roger\Dropbox\我的電腦 (DESKTOP-NJLIBRV)\Downloads\UGCFileInstaller\UGCFileInstaller\UGCFileInstaller\obj\Debug\net6.0\UGCFileInstaller.Properties.Resources.resources
+C:\Users\roger\Dropbox\我的電腦 (DESKTOP-NJLIBRV)\Downloads\UGCFileInstaller\UGCFileInstaller\UGCFileInstaller\obj\Debug\net6.0\UGCFileInstaller.csproj.GenerateResource.cache
