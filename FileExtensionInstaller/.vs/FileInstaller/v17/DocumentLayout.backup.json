@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RD04\\Downloads\\drive-download-20250318T031634Z-001\\FileInstaller\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{175AC118-D6EB-4BE1-8AA8-B0DDDDCB1128}|UGCFileInstaller\\FileInstaller.csproj|c:\\users\\rd04\\downloads\\drive-download-20250318t031634z-001\\fileinstaller\\ugcfileinstaller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{175AC118-D6EB-4BE1-8AA8-B0DDDDCB1128}|UGCFileInstaller\\FileInstaller.csproj|solutionrelative:ugcfileinstaller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{175AC118-D6EB-4BE1-8AA8-B0DDDDCB1128}|UGCFileInstaller\\FileInstaller.csproj|c:\\users\\rd04\\downloads\\drive-download-20250318t031634z-001\\fileinstaller\\ugcfileinstaller\\registryicon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{175AC118-D6EB-4BE1-8AA8-B0DDDDCB1128}|UGCFileInstaller\\FileInstaller.csproj|solutionrelative:ugcfileinstaller\\registryicon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegistryIcon.cs",
+              "DocumentMoniker": "C:\\Users\\RD04\\Downloads\\drive-download-20250318T031634Z-001\\FileInstaller\\UGCFileInstaller\\RegistryIcon.cs",
+              "RelativeDocumentMoniker": "UGCFileInstaller\\RegistryIcon.cs",
+              "ToolTip": "C:\\Users\\RD04\\Downloads\\drive-download-20250318T031634Z-001\\FileInstaller\\UGCFileInstaller\\RegistryIcon.cs",
+              "RelativeToolTip": "UGCFileInstaller\\RegistryIcon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T04:17:10.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\RD04\\Downloads\\drive-download-20250318T031634Z-001\\FileInstaller\\UGCFileInstaller\\Program.cs",
+              "RelativeDocumentMoniker": "UGCFileInstaller\\Program.cs",
+              "ToolTip": "C:\\Users\\RD04\\Downloads\\drive-download-20250318T031634Z-001\\FileInstaller\\UGCFileInstaller\\Program.cs",
+              "RelativeToolTip": "UGCFileInstaller\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T04:17:08.031Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

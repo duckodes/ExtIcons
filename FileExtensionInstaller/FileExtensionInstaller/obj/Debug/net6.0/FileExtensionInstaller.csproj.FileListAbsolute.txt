@@ -1,0 +1,17 @@
+C:\Users\RD04\Downloads\drive-download-20250318T031634Z-001\FileExtensionInstaller\FileExtensionInstaller\bin\Debug\net6.0\FileExtensionInstaller.exe
+C:\Users\RD04\Downloads\drive-download-20250318T031634Z-001\FileExtensionInstaller\FileExtensionInstaller\bin\Debug\net6.0\Resource\TargetIcon.ico
+C:\Users\RD04\Downloads\drive-download-20250318T031634Z-001\FileExtensionInstaller\FileExtensionInstaller\bin\Debug\net6.0\FileExtensionInstaller.deps.json
+C:\Users\RD04\Downloads\drive-download-20250318T031634Z-001\FileExtensionInstaller\FileExtensionInstaller\bin\Debug\net6.0\FileExtensionInstaller.runtimeconfig.json
+C:\Users\RD04\Downloads\drive-download-20250318T031634Z-001\FileExtensionInstaller\FileExtensionInstaller\bin\Debug\net6.0\FileExtensionInstaller.dll
+C:\Users\RD04\Downloads\drive-download-20250318T031634Z-001\FileExtensionInstaller\FileExtensionInstaller\bin\Debug\net6.0\FileExtensionInstaller.pdb
+C:\Users\RD04\Downloads\drive-download-20250318T031634Z-001\FileExtensionInstaller\FileExtensionInstaller\obj\Debug\net6.0\FileExtensionInstaller.Properties.Resources.resources
+C:\Users\RD04\Downloads\drive-download-20250318T031634Z-001\FileExtensionInstaller\FileExtensionInstaller\obj\Debug\net6.0\FileExtensionInstaller.csproj.GenerateResource.cache
+C:\Users\RD04\Downloads\drive-download-20250318T031634Z-001\FileExtensionInstaller\FileExtensionInstaller\obj\Debug\net6.0\FileExtensionInstaller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RD04\Downloads\drive-download-20250318T031634Z-001\FileExtensionInstaller\FileExtensionInstaller\obj\Debug\net6.0\FileExtensionInstaller.AssemblyInfoInputs.cache
+C:\Users\RD04\Downloads\drive-download-20250318T031634Z-001\FileExtensionInstaller\FileExtensionInstaller\obj\Debug\net6.0\FileExtensionInstaller.AssemblyInfo.cs
+C:\Users\RD04\Downloads\drive-download-20250318T031634Z-001\FileExtensionInstaller\FileExtensionInstaller\obj\Debug\net6.0\FileExtensionInstaller.csproj.CoreCompileInputs.cache
+C:\Users\RD04\Downloads\drive-download-20250318T031634Z-001\FileExtensionInstaller\FileExtensionInstaller\obj\Debug\net6.0\FileExtensionInstaller.dll
+C:\Users\RD04\Downloads\drive-download-20250318T031634Z-001\FileExtensionInstaller\FileExtensionInstaller\obj\Debug\net6.0\refint\FileExtensionInstaller.dll
+C:\Users\RD04\Downloads\drive-download-20250318T031634Z-001\FileExtensionInstaller\FileExtensionInstaller\obj\Debug\net6.0\FileExtensionInstaller.pdb
+C:\Users\RD04\Downloads\drive-download-20250318T031634Z-001\FileExtensionInstaller\FileExtensionInstaller\obj\Debug\net6.0\FileExtensionInstaller.genruntimeconfig.cache
+C:\Users\RD04\Downloads\drive-download-20250318T031634Z-001\FileExtensionInstaller\FileExtensionInstaller\obj\Debug\net6.0\ref\FileExtensionInstaller.dll

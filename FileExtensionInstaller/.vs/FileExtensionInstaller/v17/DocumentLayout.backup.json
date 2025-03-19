@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RD04\\Downloads\\drive-download-20250318T031634Z-001\\FileExtensionInstaller\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{175AC118-D6EB-4BE1-8AA8-B0DDDDCB1128}|FileExtensionInstaller\\FileExtensionInstaller.csproj|c:\\users\\rd04\\downloads\\drive-download-20250318t031634z-001\\fileextensioninstaller\\fileextensioninstaller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{175AC118-D6EB-4BE1-8AA8-B0DDDDCB1128}|FileExtensionInstaller\\FileExtensionInstaller.csproj|solutionrelative:fileextensioninstaller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\RD04\\Downloads\\drive-download-20250318T031634Z-001\\FileExtensionInstaller\\FileExtensionInstaller\\Program.cs",
+              "RelativeDocumentMoniker": "FileExtensionInstaller\\Program.cs",
+              "ToolTip": "C:\\Users\\RD04\\Downloads\\drive-download-20250318T031634Z-001\\FileExtensionInstaller\\FileExtensionInstaller\\Program.cs",
+              "RelativeToolTip": "FileExtensionInstaller\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T07:28:17.468Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
